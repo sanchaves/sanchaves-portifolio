@@ -2,7 +2,7 @@
 
 - 👩‍💻 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas. 
 - 👩‍💻 Também iniciei um curso EAD na plataforma da DIO sobre Análise de Dados e Power Bi.
-- 🥹 Ainda não atuo na aréa, mas futuramente tenho pretenção.
+- 😊 Ainda não atuo na aréa, mas futuramente tenho pretenção.
   
   ##
   É importante ressaltar que sou iniciante nesse universo de sistemas e programação, e mais ainda aqui dentro do github, esse é meu primeiro repositório, ainda tenho muitas dúvidas, mas é um projeto e um objetivo deixar esse perfil como um portifólio cada vez mais encorporado e completo, ele será minha cobaia 😂. Estou aceitando contribuições!! 👌
