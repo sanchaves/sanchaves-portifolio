@@ -2,7 +2,7 @@
 Prazer, me chamo Alessandra 👋
 
 - 👩‍💻 Cursando último semestre do Técnico em Desenvolvimento de Sistemas. 
-- 📊 Encerrei meu primeiro bootcamp em Power Bi e inicei outro em Analise Dados.
+- 📊 Encerrei meu primeiro bootcamp em Power BI e inicei outro em Análise Dados.
 - 🚩 Inciando na área de TI profissionalmente.
   
   ##
