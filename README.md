@@ -15,9 +15,9 @@ Atualmente, atuo na linha de frente do suporte técnico (Helpdesk), onde desenvo
 Abaixo, os repositórios organizados por foco de estudo:
 
 * [**Trilha de Desenvolvimento de Sistemas**](https://github.com/sanchaves/desenvolvimento-de-sistemas.git) 
-* [**Análise de Dados & Power BI**](https://github.com/sanchaves/intensivo-pbi-hashtag.git) (https://github.com/sanchaves/dados-pbi-dio.git) - Dashboards, projetos do Intensivão e estudos focados em BI.
+* [**Análise de Dados & Power BI**](https://github.com/sanchaves/intensivo-pbi-hashtag.git).
 
-## 🛠 Tecnologias
+
 ## 🛠 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
